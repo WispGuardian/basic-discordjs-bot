@@ -1,0 +1,5 @@
+**This is a sample help file.**
+
+`help` - DMs a helpful list of commands.
+`say <MSG>` - Makes the bot say <MSG>.
+`purge <#>` - Deletes <#> messages.
