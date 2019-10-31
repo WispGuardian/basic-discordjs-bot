@@ -15,6 +15,6 @@ A very simple start to a Discord bot.
   - This will run the bot until you terminate it/close the window.
   - For 24/7 hosting, I recommend getting access to a VPS and using it to host your bot(s).
 
-From there, everything is up to you. This project is meant as a starting place for new bot developers. If you need help with bot development, along with other programming/hacking stuff, you can join the HackTimes Discord server (https://discord.gg/r3txUkG). This server is not owned by myself, but I am active on it if you want my help specifically.
+From there, everything is up to you. This project is meant as a starting place for new bot developers. If you need help with bot development, you can join my Discord server to chat with me (and potentially others) about it. https://discord.gg/bvybjhX
 
-#### If any of the command prompt/powershell commands did not work for you, perform a couple quick Google searches about npm and nodejs.
+#### If any of the command prompt/powershell commands did not work for you, perform a couple quick searches about npm and nodejs.
